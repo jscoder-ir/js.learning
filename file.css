@@ -1,7 +1,16 @@
-html {
+body {
     padding: 0;
     margin: 0;
     border-radius: 29px;
+    background-color: rgb(31, 31, 134);
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
 
+}
+h1{ text-align: center;
+    
 
 }
